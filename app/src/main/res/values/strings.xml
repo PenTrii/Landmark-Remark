@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Landmark Remark</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">User</string>
+    <string name="sign_out">Sign out</string>
+    <string name="text_description">Enter text for a new note</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="default_web_client_id">314702006354-1vm9r8stnr8r0no8360rn36vbso21kdt.apps.googleusercontent.com</string>
+</resources>
